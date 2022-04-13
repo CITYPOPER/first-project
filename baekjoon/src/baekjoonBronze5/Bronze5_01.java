@@ -1,8 +1,8 @@
-package baekjoon;
+package baekjoonBronze5;
 
 import java.util.Scanner;
 
-public class baekjoonBronze5 {
+public class Bronze5_01 {
 
 	public static void main(String[] args) {
 		int a;
